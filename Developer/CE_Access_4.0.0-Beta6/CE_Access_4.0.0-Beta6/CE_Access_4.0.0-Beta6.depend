@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1662596525 source:f:\cegroup\开发\ceseries\ce_access\devloper\ce_access_4.0.0-beta6\ce_access_4.0.0-beta6\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+	<time.h>
+
+1662532582 source:f:\cegroup\开发\ceseries\ce_access\devloper\ce_access_4.0.0-beta6\ce_access_4.0.0-beta6\ce_access.rc
+	<windows.h>
+
