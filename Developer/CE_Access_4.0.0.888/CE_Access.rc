@@ -1,0 +1,23 @@
+#include <windows.h>
+A ICON "CEAccessLogo.ico"
+1 VERSIONINFO
+FILEVERSION 4,0,0,888
+PRODUCTVERSION 4,0,0,888
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "080404E4"
+    {
+      VALUE "CompanyName", "CE Group"
+      VALUE "FileVersion", "4.0.0.888"
+      VALUE "FileDescription", "CE Access-与互联网世界更进一步"
+      VALUE "InternalName", ""
+      VALUE "LegalCopyright", ""
+      VALUE "LegalTrademarks", ""
+      VALUE "OriginalFilename", ""
+      VALUE "ProductName", "CE Access"
+      VALUE "ProductVersion", "4.0.0.888"
+    }
+  }
+}
