@@ -43,5 +43,5 @@
 		<h3 style="text-align:center;">下载安装须知</h3>
     <p style="text-align:center;">普通用户请选择<a href="https://github.com/MarkDeng-CEGroup/CE-Access/tree/main/Consumer">Consumer</a>文件夹下载对应版本.zip文件，开发者选择<a href="https://github.com/MarkDeng-CEGroup/CE-Access/tree/main/Developer">Developer</a>文件夹下载对应<a href="https://www.codeblocks.org/">Code::Bloks</a>项目文件</p>
 		<p style="text-align:center;">下载后请将全部文件解压到需要安装的文件夹完成安装，请不要将文件分离到不同文件夹。</p>
-		<p style="text-align:center;">我们的项目均在Github中开源，绝对绿色安全、无毒无害，如遇风险提示，请在更多选项中始终选择保留或运行，请您放心使用。</p>
+		<p style="text-align:center;">我们的项目承诺永久免费、开源，绝对绿色安全、无毒无害，如遇风险提示，请在更多选项中始终选择保留或运行，请您放心使用。</p>
 		<p style="text-align:center;">其中.exe文件为主程序，您可创建该文件的快捷方式到桌面或加入到Windows开始菜单以更方便地启动程序。</p>
