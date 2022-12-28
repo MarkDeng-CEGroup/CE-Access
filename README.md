@@ -1,6 +1,6 @@
-<p style="text-align:center;"><a href="https://www.cegroup.buzz" target="_blank" title="CE Group"><img src="https://www.cegroup.buzz/p1.jpg"></a></p>
+<p style="text-align:center;"><a href="https://www.cegroup.buzz" target="_blank" title="CE Group"><img src="https://www.cegroup.buzz/p1.jpg" width="194" height="106"></a></p>
 	<h1 style="text-align:center;">CE Access™-与互联网世界更进一步<h1>
-   		<p style="text-align:center;"><a href="https://www.cegroup.buzz/product/ceaccess.html" title="CE Access"><img src="https://www.cegroup.buzz/product/p1.jpg"/></a></p>
+   		<p style="text-align:center;"><a href="https://www.cegroup.buzz/product/ceaccess.html" title="CE Access"><img src="https://www.cegroup.buzz/product/p1.jpg" width="97" height="97"/></a></p>
 		<hr>
 		<h2 style="text-align:center;"><a href="https://www.cegroup.buzz/ds/ceaccess/CE_Access_4.0.0.888.zip">点击快速下载CE Access™[最新稳定版本]</a>-2022/9/16</h2>
 		<h2 style="text-align:center;">因CE Access™ 4.0正式版本已经发布，CE Access™ 4.0-Beta计划正式结束，所有Beta版本都将停止支持。</h2><h2 style="text-align:center;">请您更新到最新的正式版本，并持续关注我们最新正式版本的更新，我们CE Access™ 5.0-Beta计划再见！</h2>
