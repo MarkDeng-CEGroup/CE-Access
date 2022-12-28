@@ -1,4 +1,4 @@
-<p style="text-align:center;"><a href="https://www.cegroup.buzz" target="_blank" title="CE Group"><img src="https://www.cegroup.buzz/p1.jpg" width="194" height="70" /></a></p>
+<p style="text-align:center;"><a href="https://www.cegroup.buzz" target="_blank" title="CE Group"><img src="https://www.cegroup.buzz/p1.jpg"></a></p>
 	<h1 style="text-align:center;">CE Access™-与互联网世界更进一步<h1>
    		<p style="text-align:center;"><a href="https://www.cegroup.buzz/product/ceaccess.html" title="CE Access"><img src="https://www.cegroup.buzz/product/p1.jpg"/></a></p>
 		<hr>
